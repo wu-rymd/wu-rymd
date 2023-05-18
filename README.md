@@ -1,4 +1,6 @@
-## Hi, I'm Raymond! 👋
+# Hi, I'm Raymond! 👋
+
+<!--
 
 **I am studying computer science at Columbia University.**
 
@@ -18,6 +20,8 @@
 ---
 
 _Fun fact: The coffee I drink either is 70% milk, or no milk at all, depending on how much caffeine I need._
+
+-->
 
 <!--
 **wu-rymd/wu-rymd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
